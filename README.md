@@ -6,3 +6,5 @@ Standalone reproducers for issues filed against [black-parrot/black-parrot](http
 |---|---|---|
 | [black-parrot#1382](https://github.com/black-parrot/black-parrot/issues/1382) | [blackparrot-mip-seip-trap-entry](blackparrot-mip-seip-trap-entry/) | [blackparrot-mip-seip-trap-entry.tar.gz](blackparrot-mip-seip-trap-entry.tar.gz) |
 | [black-parrot#1383](https://github.com/black-parrot/black-parrot/issues/1383) | [blackparrot-mcycle-48bit](blackparrot-mcycle-48bit/) | [blackparrot-mcycle-48bit.tar.gz](blackparrot-mcycle-48bit.tar.gz) |
+| (not filed yet) | [blackparrot-mtimecmp-high-half](blackparrot-mtimecmp-high-half/) | [blackparrot-mtimecmp-high-half.tar.gz](blackparrot-mtimecmp-high-half.tar.gz) |
+| (not filed yet) | [blackparrot-ppn-high-bits](blackparrot-ppn-high-bits/) | [blackparrot-ppn-high-bits.tar.gz](blackparrot-ppn-high-bits.tar.gz) |
